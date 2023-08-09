@@ -2,7 +2,7 @@
   "name": "cancerapp",
   "version": "0.1.0",
   "private": true,
-  "dependencies": { 
+  "dependencies": {
     "@coreui/react": "^4.8.0",
     "@emoji-mart/data": "^1.1.2",
     "@emoji-mart/react": "^1.1.1",
